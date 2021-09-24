@@ -1,0 +1,3 @@
+- 👋 Hi, I’m LaIQ
+- 👀 I’m interested in any Web Development or Javascript jobs
+- ⌨️ I'm down to any requests, jobs and collabs
