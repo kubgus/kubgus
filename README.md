@@ -1,3 +1,8 @@
-- 👋 Hi, I’m LaIQ
-- 👀 I’m interested in any Web Development or Javascript jobs
-- ⌨️ I'm down to any requests, jobs and collabs
+# 👋 Hi, I’m LaIQ
+
+- ⌨️ Programmer
+- 🎮 Gamer
+- 🎓 Student
+
+
+[Check out my website for more info!](https://gustafik.com/)
