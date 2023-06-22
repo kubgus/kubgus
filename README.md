@@ -18,4 +18,4 @@
 
 <br>
 
-[Check out my website for more info!](https://gustafik.com/)
+<a href="https://gustafik.com/" target="_blank">Check out my website for more info!</a>
