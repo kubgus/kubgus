@@ -6,15 +6,15 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubgus&count_private=true&show_icons=true&theme=dark&icon_color=ffc83d)
+![Kubo's github stats](https://github-readme-stats.vercel.app/api?username=kubgus&count_private=true&show_icons=true&theme=dark&icon_color=ffc83d)
 
 <br>
 
 ## 👀 My Interests
 
 - ⌨️ Programmer
-- 👨‍💼 Entrepeneur
 - 🎓 Student
+- 👨‍💼 Entrepeneur
 
 <br>
 
