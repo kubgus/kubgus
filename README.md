@@ -1,4 +1,4 @@
-# 👋 Hi, I’m LaIQ
+# 👋 Hi, I’m Jakub
 
 <br>
 
