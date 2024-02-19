@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jakub
+# 👋 Hi, I’m Kubo
 
 <br>
 
