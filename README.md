@@ -1,8 +1,4 @@
-# 👋 Hi, I’m Kubo
-
-<br>
-
-"I publish decent stuff on the internet."
+# Call me Kubo!
 
 <br>
 
