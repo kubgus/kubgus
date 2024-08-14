@@ -2,9 +2,9 @@
 
 <br>
 
-👨‍🎓 Student
-⌨️ Programmer
-📈 Freelancer
+👨‍🎓 Student <br>
+⌨️ Programmer <br>
+📈 Freelancer <br>
 
 <br>
 
